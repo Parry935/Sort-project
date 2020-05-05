@@ -1,0 +1,7 @@
+﻿  CSortTablicy.cpp
+  CTablica.cpp
+  source.cpp
+  Generowanie kodu...
+c:\users\g\desktop\laboratorium_12\projekt\ctablica.cpp(84): warning C4715: "CTablica::Lomuto_Quicksort”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\g\desktop\laboratorium_12\projekt\ctablica.cpp(138): warning C4715: "CTablica::Hoare_Quicksort”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt.vcxproj -> C:\Users\g\Desktop\Laboratorium_12\Projekt\Debug\Projekt.exe
